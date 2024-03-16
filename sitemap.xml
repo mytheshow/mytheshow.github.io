@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://mytheshow.github.io/about/index.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/schedule/index.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/404/index.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/hello-world.html</loc>
+    
+    <lastmod>2024-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://mytheshow.github.io/</loc>
+    <lastmod>2024-03-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://mytheshow.github.io/tags/Hexo/</loc>
+    <lastmod>2024-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/tags/Typora/</loc>
+    <lastmod>2024-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://mytheshow.github.io/categories/VVV/</loc>
+    <lastmod>2024-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mytheshow.github.io/categories/VVV/GGG/</loc>
+    <lastmod>2024-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
