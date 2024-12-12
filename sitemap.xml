@@ -1125,6 +1125,13 @@
   </url>
   
   <url>
+    <loc>https://dayuzy.com/tags/hexo%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dayuzy.com/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -1133,13 +1140,6 @@
   
   <url>
     <loc>https://dayuzy.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81%E5%AE%9A%E6%8A%95%E5%8D%81%E5%B9%B4/</loc>
-    <lastmod>2024-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayuzy.com/tags/hexo%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1190,14 +1190,14 @@
   </url>
   
   <url>
-    <loc>https://dayuzy.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://dayuzy.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E5%AD%A6/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dayuzy.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E5%AD%A6/</loc>
+    <loc>https://dayuzy.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
